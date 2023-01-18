@@ -1,0 +1,24 @@
+.row {
+    width: 50vw;
+}
+
+.tr {
+    display: flex;
+    justify-content: space-between;
+}
+
+.t-data {
+    padding: 5px 0px 5px 0px;
+}
+
+.remove-icon {
+    display: flex;
+    gap: 20px;
+
+}
+
+span {
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}

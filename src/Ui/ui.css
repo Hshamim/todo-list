@@ -1,0 +1,73 @@
+.Container {
+
+    width: 100vw;
+}
+
+.wrapper {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.Form {
+    width: 50vw;
+}
+
+.form-item {
+    margin: 25px 0px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+
+}
+
+button {
+    width: 103%;
+    padding: 10px;
+
+
+
+    background-color: #1eaedb;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+
+}
+
+
+
+
+
+.t-head {
+    display: flex;
+}
+
+.col-1 {
+    flex: 1;
+    text-align: start;
+    text-transform: uppercase;
+}
+
+.col-2 {
+    flex: 1;
+    text-align: start;
+
+    text-transform: uppercase;
+}
+
+.col-3 {
+    flex: 1;
+    text-align: start;
+    text-transform: uppercase;
+}
+
+hr {
+    height: 1px;
+    width: 103%;
+    background-color: black;
+}
